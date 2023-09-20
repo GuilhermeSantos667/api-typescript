@@ -1,8 +1,8 @@
-import {server} from './server/server'
+import { server } from './server/server'
 
 
-server.listen(3000, () =>{
-    
+server.listen(3000, () => {
+
   console.log('servidor rodando')
 
 })
